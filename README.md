@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.hackerrank.com/dilarauluturhan" target="_blank">
-    <img alt="HackerRank" src="hacker-rank-logo.png">
-  </a>
-</p>
 # 10 Days of JavaScript
 ## My HackerRank solutions in JavaScript.
 ### Day 0: Hello, World! [Solution]()
