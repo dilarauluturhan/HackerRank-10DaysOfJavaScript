@@ -3,7 +3,7 @@
 ## My HackerRank solutions in JavaScript.
 ### Day 0: Hello, World! [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-0/helloWorld.js)
 ### Day 0: Data Types [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-0/dataTypes.js)
-### Day 1: Arithmetic Operators [Solution]()
+### Day 1: Arithmetic Operators [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-1/arithmeticOperators.js)
 ### Day 1: Functions [Solution]()
 ### Day 1: Let and Const [Solution]()
 ### Day 2: Conditional Statements: If-Else [Solution]()
