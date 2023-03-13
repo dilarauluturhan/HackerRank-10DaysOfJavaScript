@@ -9,7 +9,7 @@ function getLetter(s){
         case('h'||'j'||'k'||'l'||'m'||'n'):
             return 'C';
             
-        case('n'||'p'||'q'||'r'||'s'||'t'||'v'||'w'||'x'||'y'||'z'):
+        case('z'||'n'||'p'||'q'||'r'||'s'||'t'||'v'||'w'||'x'||'y'):
             return 'D';        
     }
 }
