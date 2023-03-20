@@ -1,6 +1,5 @@
 ![hacker-rank-logo](https://user-images.githubusercontent.com/120499369/224381982-28be7722-b508-48b2-85a8-7e1eb2cffebc.png)
 # 10 Days of JavaScript
-## My HackerRank solutions in JavaScript.
 ### Day 0: Hello, World! [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-0/helloWorld.js)
 ### Day 0: Data Types [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-0/dataTypes.js)
 ### Day 1: Arithmetic Operators [Solution](https://github.com/dilarauluturhan/HackerRank-Solutions/blob/master/Day-1/arithmeticOperators.js)
